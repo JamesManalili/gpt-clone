@@ -1,6 +1,9 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const apiKey = "AIzaSyDgiHiTuluj7i3C-lo7teh5SU9fqOE_8Ms"; // Replace with your actual API key
+// Load the API key from environment variables
+const apiKey = process.env.REACT_APP_API_KEY;
+console.log("API Key:", apiKey); // Debugging line to verify if the key is loaded
+
 const genAI = new GoogleGenerativeAI(apiKey);
 
 // Function to send a message to Google Gemini AI
