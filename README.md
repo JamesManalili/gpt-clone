@@ -4,8 +4,14 @@ This project is a minimalist implementation of a ChatGPT interface, developed us
 # Overview 
 This ChatGPT clone emphasizes a clean and straightforward user interface, ensuring a minimalist design that enhances usability. The application is optimized for quick load times and efficient resource usage, providing fast performance across various devices. It offers a simple installation and setup process, making it easy to get started without extensive configuration. Additionally, the project supports basic ChatGPT features and is compatible with a broad range of user environments, ensuring seamless access to a wide variety of content.
 
+
+
+
 # Example Output
-![gpt](https://github.com/user-attachments/assets/49db05cb-ac3b-4a99-aea0-6f3c68325090)
+You can access it here [link](https://jamesmanalili.github.io/gpt-clone/).
+
+![Screenshot 2024-08-11 143514](https://github.com/user-attachments/assets/5464b041-6adc-4956-9df2-869396481b8a)
+
 
 # Setup and Installation
 
